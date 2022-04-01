@@ -6,4 +6,4 @@ For the time being I just copied the records of the 150 job posts manually from 
 
 ![image](https://user-images.githubusercontent.com/57464184/161275882-7f44bfb5-c4c3-4d5b-9949-1eea29c641e3.png)
 
-You can even try the code interactively from ![ReplIt](https://replit.com/@carlo_/testjobdescr#main.py)
+You can even try the code interactively from [ReplIt](https://replit.com/@carlo_/testjobdescr#main.py)
