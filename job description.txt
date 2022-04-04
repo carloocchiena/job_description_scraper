@@ -1,0 +1,1641 @@
+3Bee, startup che sviluppa Tecnologie IoT e DSS per migliorare la biodiversità e l'ambiente che ci circonda. 3Bee nata con tecnologie per la salvaguardia e il monitoraggio delle api oggi offre decine di soluzione per gli agricoltori e aziende.. Un ambiente di lavoro giovane, stimolante e dinamico (il 70% del team è in remoto), con prospettive di crescita e la possibilità di partecipare allo sviluppo di progetti innovativi, dallo sviluppo di reti neurali per l'analisi dei dati degli animali, fino a data driven digital marketing per il miglioramento dell'acquisizione clienti.
+
+
+3Bee ha appena chiuso il più grande round di investimento per una startup in ambito ambientale, con un piano di spesa di oltre 10M€ nei prossimi 2 anni. 3Bee è alla ricerca di 2 x Backend Developer che si uniscano al team di R&D (7 persone attualmente). La persona selezionata dovrà sviluppare in un team Agile l'infrastruttura per la gestione utenti, dispositivi IoT, big data, sensori, sviluppando automazioni per ecommerce, sviluppo automazioni per data driven marketing, sviluppo automazioni per CRM.
+
+
+3Bee è alla ricerca di un candidato intraprendente, proattivo e che sia motivato nel migliorare costantemente. Cerchiamo persone che vogliano divertirsi lavorando, per questo regaliamo 16 ore al mese (pagate) al proprio sviluppo personale, in cui si può studiare o sviluppare progetti personali di apprendimento.
+
+
+Le skills richieste sono:
+
+Conoscenza ed esperienza di linguaggi di programmazione: Python. 3+.
+Conoscenza ed esperienza di Web Framework: Django. 3+.
+Plus non necessarie ma che fanno la differenza:
+
+Esperienza React 3+
+Esperienza con AWS e lambda 3+
+Esperienza SLS (Serverless) 3+
+Conoscenza Docker
+
+La posizione è da intendersi da REMOTO.
+
+La remunerazione sarà idonea all'esperienza di lavoro: 60k per un Senior Full-Stack (tutti i requisiti sopra almeno 10+) e 30k per un junior backend.
+
+
+Sono previsti bonus aziendali fino a 3-10 mila euro all'anno (bonus erogato al 100% nel 2021 e 2020)
+
+
+Sono previste stockoption fino a 100 mila euro.
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+Acronis is dedicated not just to cyber protection but to the general protection of its potential and current employees, interviews are being held virtually during the current global COVID-19 situation.
+
+Acronis is a world leader in cyber protection—empowering people by providing them with cutting-edge technology that enables them to monitor, control, and protect the data that their businesses and lives depend on. We are in an exciting phase of rapid-growth and expansion and looking for a Senior Python Developer who is ready to join us in creating a #CyberFit future and protecting the digital world!
+
+We are looking for an experienced and driven Senior Python Developer to join our Advanced Automation Team. The project is to enhance core Acronis Cyber Protect cloud product with automation capabilities and is strategic to Acronis.
+
+Every member of our “A-Team” has an instrumental role and impact on the success of Acronis innovative and growing business, so we are looking for someone who enjoys working in dynamic, global teams and thrives in a fast-paced and rapidly changing work environment. Just like everyone at Acronis, the ideal candidate will embody all of our company values: responsive, alert, detail-oriented, makes decisions, and never gives up.
+
+What You'll Do
+Analyse, research and develop functionality to roadmap requirements
+Participate design and peer code reviews
+Develop of unit tests and planform features
+Support QA team in technical matters
+Overlook deployments and maintain the code after it’s deployed
+What You Bring (experience & Qualifications)
+At least 3 year of experience writing well-designed, high-quality production code
+Solid knowledge and experience with Python (3.5), standard libs to http (requests)
+Experience with databases (MySQL or PostgreSQL)
+Solid knowledge of principles of REST / RESTful;
+Strong knowledge of software implementation best practices
+Knowledge of Linux (ssh, make, etc.)
+Good interpersonal, written and verbal communication skills
+Fluent English
+DESIRED
+Knowledge of MSSQL, stored procedures, and/or C#
+Expirience with gevent or asyncio, multithreading
+Experience with Docker and Kubernetes (local dev environment is spun up in Docker container, debugging is done on stands where app is run in Kubernetes)
+Who We Are
+
+Acronis is revolutionizing cyber protection by integrating backup, disaster recovery, storage, next-generation anti-malware, and protection management into one solution. This all-in-one integration removes the complexity and risks associated with non-integrated solutions and offers easy, complete and reliable data protection for all workloads, applications, and systems across any environment—physical, virtual, cloud, and mobile—all at a low cost.
+
+Founded in Singapore in 2003 and incorporated in Switzerland in 2008, Acronis is truly a global organization with more than 1,900 employees in 33 locations in 18 countries. Its solutions are trusted by more than 5.5 million consumers and 500,000 businesses, including 100% of the Fortune 1000 companies. Acronis products are available through 50,000 partners and service providers in over 150 countries in more than 30 languages. Acronis is in an exciting phase of growth and expansion, recently receiving a $250 million investment from CVC Capital Partners, bringing the total valuation to more than $2.5 billion.
+
+Acronis is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, marital status, national origin, physical or mental disability, medical condition, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, gender identity or expression, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+
+Project Description
+
+DXC-Luxoft is an industry-leading software integrator and solution house for automakers and automotive suppliers. There are millions of cars on the road today with solutions designed by DXC-Luxoft. We are working on the development of modern and future technologies such as Advanced Driver Assistance Systems (ADAS) with the highest demands in safety and reliability.
+
+For expanding our business offering in the European market, we seek to establish an experienced domain expert. DXC-Luxoft is happy to receive applications from self-motivated and self-disciplined applicants who communicate well, like to work in teams, and are willing to travel.
+
+For the successful candidate we offer the opportunity to enhance and develop your career with the following benefits:
+
+Join a highly competent and motivated international team
+
+Apply your talent into figuring the shape of future car
+
+Personal growth and promotion options
+
+Make an impact on the overall growth of DXC
+
+The interesting project connected with scenario modeling for ADAS systems
+
+
+Responsibilities
+
+Requirement analysis
+
+Design and develop the software
+
+Documentation and testing
+
+Active participation in Scrum process
+
+
+Skills
+
+Must have
+
+Software development (min. 2 years)
+
+Python (incl. REST API)
+
+Git
+
+Test automation (unit tests, integration tests)
+
+English
+
+
+Nice to have
+
+CI/CD
+
+Azure Cloud experience
+
+Java or GO experience
+
+
+Languages
+
+English: B2 Upper Intermediate
+
+Pay range unavailable
+
+Every month, billions of people leverage Facebook products to connect with friends and loved ones from across the world. On the Data Engineering Team, our mission is to support these products by delivering the best data foundation that drives impact through informed decision making. We're looking for a leader in our Data Engineering team to work closely with Product Managers, Data Scientists and Software Engineers to support product launches and roadmaps by building the data architecture that informs and drives insight. In this role, you’ll be a foundational member of the leadership team, where you'll see a direct link between your work, company growth, and user satisfaction. You'll work with some of the brightest minds in the industry, work with one of the strongest data sets in the world, use cutting edge technology, and see your efforts affect products and people on a regular basis. You’ll be expected to utilize your full range of people management skills, data infrastructure and data architecture skills, and setting a strong vision for how data engineering can proactively improve companies.
+
+Data Engineering Manager, London Responsibilities:
+
+Proactively drive the vision for BI and Data Warehousing across a product vertical, and define and execute on a plan to achieve that vision.
+Define the processes needed to achieve operational excellence in all areas, including project management and system reliability.
+Build a high-quality BI and Data Warehousing team and design the team to scale.
+Build cross-functional relationships with Data Scientists, Product Managers and Software Engineers to understand data needs and deliver on those needs.
+Manage data warehouse plans across a product vertical. Drive the design, building, and launching of new data models and data pipelines in production.
+Manage development of data resources and support new product launches.
+Drive data quality across the product vertical and related business areas.
+Manage the delivery of high impact dashboards and data visualizations.
+Define and manage SLA’s for all data sets and processes running in production.
+
+Minimum Qualifications:
+
+Experience managing, scaling and mentoring teams in highly matrixed organizations.
+Experience in BI and Data Warehousing.
+Examples of strong partnerships with product managers and engineers which provide product direction and exert significant influence in defining goals for your product area.
+Project management experience.
+Data architecture experience.
+Experience in SQL or similar languages and development experience in at least one object-oriented language (Python, Java, etc.).
+BA/BS in Computer Science, Math, Physics, or other technical fields.
+
+Preferred Qualifications:
+
+Experience in a consumer web or mobile company.
+Experience with data sets, Hadoop, and data visualization tools.
+Advanced degree.
+
+Job poster profile
+Davide Piroli 2nd
+Section Manager - IT & Digital Practice at Hays Technology
+
+Send InMail
+Your new company
+
+
+Our client is a renowned multinational group belonging to the Luxury Retail industry. For the enhancement of the Information Technology Department, Hays is looking for a Senior Data Engineer to join the Data Department, based in Rome.
+
+
+Your new role
+
+
+The position requires a great operation-oriented attitude, together with a broad experience on streams like Data Modelling, Data Ingestion, Data Quality, Data Governance and Business Intelligence. The candidate will actively participate to the transition from legacy systems to modern BI, leading the path towards the new technology. The resource will be responsible for the following activities:
+
+
+Development and maintenance of scalable data pipelines, to support continuing increases in data volume and complexity
+Driving data automation through effective Data Management, by using innovative and modern tools, techniques, and architectures
+Collaboration with analytics and business teams to improve data models that feed BI tools, increasing data accessibility
+Implementing processes and systems to monitor data quality, data consumption patterns and schema changes, to ensure production data is accurate and available for key stakeholders and business processes
+Performing data analysis required to troubleshoot data-related issues and assist in the resolution of data issues
+Designing data integrations and data quality framework
+Designing and evaluating open source and vendor tools for data cataloguing, lineage, and quality
+Participating in ensuring compliance and governance during data use
+Defining and managing SLA for AMS processes
+
+What you'll need to succeed
+
+
+The ideal candidate has a university background in Computer Science or related technical fields. Moreover, the suitable resource has experience in designing, building, and maintaining data processing systems.
+
+
+The technical skills required are:
+
+
+4+ years of experience with Data modelling and schema design
+4+ years of experience with SQL technologies (e.g. Oracle, MS Server, BigQuery, etc.). No-SQL experience is a plus
+Experience with at least one programming language, mostly data oriented (e.g. Python, etc.)
+Experience with at least one BI technology (e.g. PowerBI, Qlik, Looker, etc.)
+Experience with cloud based technologies, within the data context, of the most important Cloud providers (e.g. Google, Microsoft Azure, AWS)
+Best practices and IT operations in an always-up, always-available service
+Fluency in English
+
+The following preferred skills may complete the profile:
+
+
+Experience with modern data pipeline technologies is a plus (e.g. Dbt, Dataform, etc.)
+Experience with or knowledge of Agile Software Development methodologies is a plus
+DevOps/DataOps experience
+
+English fluency, written and spoken, has to be considered as mandatory for this job opportunity.
+
+
+Location: Rome.
+
+
+What do you need to know
+
+
+Candidates of both sexes, after reading the obligatory information regarding privacy on the site www.hays.it, are requested to send your CV in Word format, under reference (Ref. 929671), as well as his or her consent to the processing of personal data pursuant to Legislative Decree no. 196/03. Aut Min N. 13/I/0007145/03.04 April 1, 2008.
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+cronis is a world leader in cyber protection—empowering people by providing them with cutting-edge technology that enables them to monitor, control, and protect the data that their businesses and lives depend on. We are in an exciting phase of rapid-growth and expansion and looking for a Senior Developer (Python or C++) who is ready to join us in creating a #CyberFit future and protecting the digital world!
+
+We are currently looking for a Senior Developer (Python or C++) to join our cross-functional Express Delivery team. This team spearheads development of new capabilities for our Acronis Cyber Protect products portfolio to accommodate needs of our key partners. You will be working directly with plethora of customers from all sorts of businesses, including, but not limited to, Service Providers (like GoDaddy and 1&1 IONOS) and Enterprises (like AT&T, BMW, Nissan, Bosch, Siemens). The results your work will be frequently merged into the mainline codebase. Thus this is an ideal position for those who would like to see the results of their work being released as fast as possible and make a valuable impact on the rest of the product development.
+
+What You'll Do
+Communication with product management teams to gather requirements for further analysis
+Design and develop new functionality according to requirements covered in all sort of tests
+Participate in peer code reviews
+Plan deployments and maintain the code after it’s deployed
+What You Bring (experience & Qualifications)
+3+ years of experience in software development/engineering
+Programming skills in GoLang or Python or C++
+Willingness to cross-train to Go is welcome
+Solid understanding of HTTP / Authentication / Web services / REST API
+Good knowledge of Linux OS
+Experience with build and deployment technologies and CI systems (Jenkins, Git, Bitbucket, Jira, etc.)
+Experience with a relational database MySQL or PostgreSQL will be a plus
+Ability to make decisions and take responsibility for projects and tasks
+Fluent English
+Who We Are
+
+Acronis is revolutionizing cyber protection by integrating backup, disaster recovery, storage, next-generation anti-malware, and protection management into one solution. This all-in-one integration removes the complexity and risks associated with non-integrated solutions and offers easy, complete and reliable data protection for all workloads, applications, and systems across any environment—physical, virtual, cloud, and mobile—all at a low cost.
+
+Founded in Singapore in 2003 and incorporated in Switzerland in 2008, Acronis is truly a global organization with more than 1,900 employees in 33 locations in 18 countries. Its solutions are trusted by more than 5.5 million consumers and 500,000 businesses, including 100% of the Fortune 1000 companies. Acronis products are available through 50,000 partners and service providers in over 150 countries in more than 30 languages. Acronis is in an exciting phase of growth and expansion, recently receiving a $250 million investment from CVC Capital Partners, bringing the total valuation to more than $2.5 billion.
+
+Acronis is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, marital status, national origin, physical or mental disability, medical condition, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, gender identity or expression, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+cronis is dedicated not just to cyber protection but to the general protection of its potential and current employees, interviews are being held virtually during the current global COVID-19 situation.
+
+Acronis is a world leader in cyber protection—empowering people by providing them with cutting-edge technology that enables them to monitor, control, and protect the data that their businesses and lives depend on. We are in an exciting phase of rapid-growth and expansion and looking for a Senior Python Developer who is ready to join us in creating a #CyberFit future and protecting the digital world!
+
+We are looking for an experienced and driven Senior Python Developer to join our Advanced Automation Team. The project is to enhance core Acronis Cyber Protect cloud product with automation capabilities and is strategic to Acronis.
+
+Every member of our “A-Team” has an instrumental role and impact on the success of Acronis innovative and growing business, so we are looking for someone who enjoys working in dynamic, global teams and thrives in a fast-paced and rapidly changing work environment. Just like everyone at Acronis, the ideal candidate will embody all of our company values: responsive, alert, detail-oriented, makes decisions, and never gives up.
+
+What You'll Do
+Analyse, research and develop functionality to roadmap requirements
+Participate design and peer code reviews
+Develop of unit tests and planform features
+Support QA team in technical matters
+Overlook deployments and maintain the code after it’s deployed
+What You Bring (experience & Qualifications)
+At least 3 year of experience writing well-designed, high-quality production code
+Solid knowledge and experience with Python (3.5), standard libs to http (requests)
+Experience with databases (MySQL or PostgreSQL)
+Solid knowledge of principles of REST / RESTful;
+Strong knowledge of software implementation best practices
+Knowledge of Linux (ssh, make, etc.)
+Good interpersonal, written and verbal communication skills
+Fluent English
+DESIRED
+Knowledge of MSSQL, stored procedures, and/or C#
+Expirience with gevent or asyncio, multithreading
+Experience with Docker and Kubernetes (local dev environment is spun up in Docker container, debugging is done on stands where app is run in Kubernetes)
+Who We Are
+
+Acronis is revolutionizing cyber protection by integrating backup, disaster recovery, storage, next-generation anti-malware, and protection management into one solution. This all-in-one integration removes the complexity and risks associated with non-integrated solutions and offers easy, complete and reliable data protection for all workloads, applications, and systems across any environment—physical, virtual, cloud, and mobile—all at a low cost.
+
+Founded in Singapore in 2003 and incorporated in Switzerland in 2008, Acronis is truly a global organization with more than 1,900 employees in 33 locations in 18 countries. Its solutions are trusted by more than 5.5 million consumers and 500,000 businesses, including 100% of the Fortune 1000 companies. Acronis products are available through 50,000 partners and service providers in over 150 countries in more than 30 languages. Acronis is in an exciting phase of growth and expansion, recently receiving a $250 million investment from CVC Capital Partners, bringing the total valuation to more than $2.5 billion.
+
+Acronis is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, marital status, national origin, physical or mental disability, medical condition, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, gender identity or expression, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+Partner Development is a team of creative entrepreneurs that develop solutions for Agoda’s accommodation partners and promote Agoda’s top and bottom line growth. We design tailored business and product solutions with our partners and help them generate measurable value. Members of our team are empowered and supported to grow their market(s) or accounts. We develop win-win relationships and leverage Agoda’s unique accommodations portfolio and tech solutions to bring our partners the advantages they seek. Utilizing our strong brand and resources, we roll out new product to increase the visibility of Agoda, introduce more travelers to our great products and service and deliver significant revenues to the overall business.
+
+In this role you’ll get to
+
+This role is designed to mainly growth opportunity identification among mid to long tail hotels, experiment execution and data tracking within Partner Development team for the global teams. You will get to work directly with the regional team to design and put in place global experimentation and initiatives to drive tangible impact in each market.
+
+Key activities involved include but not limit to:
+
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to identify opportunities for business improvements and support your recommendations
+Own end-to-end project or roll out new experiments to validate in-market impact of an initiative within Partner Development
+Build dashboards, identify new and track key metrics to closely monitor team’s performance and identify quick and long term opportunities for improvements
+Work closely with cross-functional teams of analysts, regional team leads, product managers and business owners to drive changes based on opportunities identified
+Support global Partner Development related initiatives, including experimentation infrastructure-building and methodology standardization
+
+What You’ll Need To Succeed
+
+Bachelor’s degree in science, computer science, statistics, economics, mathematics, or similar quantitative discipline
+4-6 years experience working in a business analysis, data analysis, reporting or business strategy role
+Excellent problem-solving skills including the ability to analyze and resolve complex problems using data
+Team player with strong interpersonal, relationship-building, and stakeholder management skills
+Coding skills for analytics and data manipulation (SQL, R, Python, Pandas, Scala)
+Data visualization tool experience such as with Tableau or your weapon of choice
+Ability to work under pressure in a fast-paced and rapidly changing environment
+Excellent communication skills (both verbal and written in English), with proven ability to convey complex messages clearly and with conviction
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+Job poster profile
+Francesco Alati 2nd
+IT Recruiter | Talent Acquisition | Head Hunter
+Send InMail
+Per importante azienda Cliente operante nel settore trasporti, ricerchiamo:
+
+
+n°1 SVILUPPATORE PYTHON
+
+
+Mansione: sviluppatore su applicativi, siti web, tornelli, sistemi centralizzati, applicazioni e biglietti, app su cantieri.
+
+
+Contesto: team di sviluppo con un coordinatore che seguirà operativamente il neoassunto e lo formerà costantemente; attività di sviluppo software e a lungo termine avvicinamento a tecnologie quali Kubernetes e Docker.
+
+
+Luogo di lavoro: Venezia (VE)
+
+
+Requisiti: competenze di programmazione con Python acquisite anche tramite progetti di sviluppo personali. La conoscenza di Django è un plus.
+
+
+Contratto: tempo determinato di 6 mesi con scopo assunzione a tempo indeterminato- 1500 lordi mensili + eventuali benefit
+
+
+Il trattamento dei dati personali dei candidati avverrà in ottemperanza alla vigente normativa in materia di protezione dei dati personali. L' informativa per i candidati (art. 13 Reg. UE 2016/679) è disponibile sul sito web di Umana alla sezione "Privacy"
+
+Pay range unavailable
+Salary information is not available at the moment.
+
+Data Engineer & Data viz Specialist
+
+(Milan/Italy)
+
+
+Company: End User / Retail
+
+Experience: Min 2 years working experience
+
+Skills: SQL, Python, Understanding of Google Cloud Platform (GCP) is preferred
+
+
+Tasks
+
+Proposing solutions on how to process and explore/visualize data in a Cloud environment;
+Design, build and maintain/tracking stable data pipelines and architectures for data processing;
+Communicate and discuss with the whole Data Viz & Data Engineering team in order to establish lasting solutions (e.g. solutions of problems at the origin of recurring incidents);
+Support the development of interactive dashboards using web based reporting tools such as Data Studio or platforms such as Looker;
+Support data requirements collection and validation from different business stakeholders;
+Be in charge of data migration projects;
+Proactively suggest, plan and integrate new tools and methods to improve productivity, efficiency and reduce costs.
+
+
+Skills
+
+BSc or MSc degree in Computer Science or similar working experience;
+Min 2 years experience as Data Engineer within consultancy companies or innovative department end-user sector;
+Expertise in SQL and building Data Pipelines;
+Google Cloud Platform experience is preferred (BigQuery, Google Cloud Functions);
+Expertise with Data workflow orchestration services;
+Python knowledge with a nice to have experience on using Cloud Functions;
+Experience with Google Data Studio or Looker is preferred;
+Expertise in Data Cleaning, Anomaly Detection and Data Preparation;
+Interest or experience in Data Engineering for MLOps is a nice to have;
+Are also appreciated the knowledge of Agile Methodology, and experience in supporting and working with cross-functional teams in a dynamic environment;
+Good Italian and English level is required, French is a nice to have.
+
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category Customer Success Group Job Details
+
+We are seeking a Solution Architect to join our EMEA Professional Services division here at Tableau. Taking ownership for enabling our customers through cultural and data transformation as well as implementation; you will be an advisor and implementer of Tableau Visual Analytics products, a user-focused strategist who is guiding customers through their data transformation being the steward of Tableau best practices. You will spend your time leading, advising and delivering fantastic solutions to our customers. Working across all industries, EMEA wide, with the flexibility to work remotely or be on a customer site depending on engagement and customer, helping our customers see and understand their data. A key aspect of Consulting at Tableau is nurturing customers to drive adoption and repeat purchases.
+
+A Solutions Architect can be responsible for:
+Advising, developing, and delivering analytics strategy for small to enterprise level organisations
+Delivering Tableau projects as a team leader or senior individual contributor
+Being a product expert across the Tableau platform
+Owning technical delivery such as installation, infrastructure, migration, provisioning etc.
+Owning solution delivery such as dashboards, user enablement, centres of excellence, training, community development etc.
+Representing Tableau as an individual, part of a small or large team across multiple short-term engagements or in a single multi-year program
+Working with the sales team to scope and develop opportunities with customers
+Owning and developing customer relationships, for delivery, to foster close partnering through delivery and building follow on opportunities
+Working with our pre-sales, customer success and support teams to pro-actively support the customer through all stages of their lifecycle with Tableau
+Proactively building their skills through on the job and direct training opportunities
+Contributing to the wider knowledge pool of Tableau
+
+Who You Are…
+Experienced - Hands-on consulting experience in most of; Business Intelligence, ETL, Visual Analytics, Big Data, Data Culture, Data Transformation, Advisory Consulting
+Leader – You are able to lead customer engagements from start to finish and coordinate the resources necessary to scope the requirement, document the necessary actions, deliver the engagement and follow up afterwards with a summary of work completed and next steps.
+Superb communication and presentation skills - You are comfortable presenting to business and technical audiences.
+Customer Facing – You are perfectly happy to be on customer sites, getting to grips with their challenges and helping them to build solutions to solve those challenges.
+Problem Solver - You love taking on the most difficult of challenges and know how to get to the best solution.
+Fast Learner - You have an appetite for new skills and the desire and ability to build your knowledge quickly.
+A True Team Player - You’re great at what you do and you know how to work with your colleagues to get the best out of the team.
+Cross-Cultural - You enjoy the opportunity to travel within the UK and abroad and have experience relating to customers from a variety of European countries and cultures.
+You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world!
+Fluent in English and the language of the country you reside in (Spain, Italy, France of Germany)
+
+What you’ll achieve in your first year:
+Complete Tableau’s world-class, two-week boot-camp program
+Follow a 90-day ramp program
+Pass your Tableau Qualified Associate qualification (Server or Desktop, depending on role)
+Shadow a ramped consultant on customer engagements
+Lead delivery of customer engagements, with a qualified colleague for support
+Go solo on your first unsupported engagement!
+Partner with our Services and License sellers on positioning Services and scoping engagements
+Influence product direction by feeding back customer requirements from the field to our product management and engineering teams
+Work with our Customer Success team to help customers achieve amazing things with our software
+Be a valued part of our incredible Tableau community through forums, blogs and social media.
+Recruit and mentor the next generation of Tableau rock-stars
+
+Who We Are…..
+
+Tableau is a clear market leader in the Gartner Magic Quadrant for BI & Analytics. We develop software that helps people to see and understand data. We’re now also part of Salesforce, one of the world’s largest cloud-based software groups.
+
+Not only do Tableau have world-class products, Tableau is also one of the most in-demand and fastest growing marketable skill in the world!
+
+At Tableau, who we are is as important as what we do, and our Core Values sets the stage for all employees. We’re always on the mission to collaborate and provide world-class products. Through respect, honesty and just keeping it simple, it makes delighting our customers easy!
+
+Are you:
+Passionate about making a difference in the world by helping people see and understand their data?
+Motivated by building successful customer solutions based around innovative, market-leading technology?
+Excited to join the best Professional Services team in the business where coming to work is more than just a job?
+
+If so, we would love to hear from you!
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .
+
+Salesforce welcomes all.
+Pay range unavailable
+Salary information is not available at the moment.
+
+Job poster profile
+Carmen Canadeo 2nd
+HR Senior Recruiter presso Aubay Italia
+Send InMail
+Siamo alla ricerca sulla sede di Milano di un*
+
+
+Devops Python Developer
+
+Il candidato ideale ha maturato dai 4 ai 6 anni di esperienza come sviluppatore Python su progetti DevOps in ambito Telecomunicazioni.
+
+
+Si richiede:
+
+· Ottima conoscenza del linguaggio Python
+
+· Buona conoscenza della metodologia DevOps
+
+· Esperienza su piattaforma Kubernetes
+
+Competenze gradite:
+
+· Conoscenza della Core Network
+
+· Conoscenza di sistemi Policy and Charging Rules Function (PCRF)
+
+· Conoscenza del protocollo Diameter.
+
+Completano il profilo: approccio analitico e proattivo, problem solving, attitudine al team-working, e knowledge sharing.
+
+Sede di lavoro: remoto, con disponibilità ad effettuare delle giornate a Busto Arsizio.
+
+
+Ai sensi della vigente normativa, l'offerta di lavoro s’intende estesa ad entrambi i sessi (L. 903/77).
+
+Pay range unavailable
+
+Il candidato ideale è un Laureato in Informatica, Ingegneria Informatica, dell'Automazione/Meccatronica o Biomedica con almeno 1 anno di esperienza nello sviluppo software, in particolare con il linguaggio Python.
+
+
+Requisiti fondamentali per la posizione:
+
+Ottima conoscenza di Python;
+Conoscenza di framework per lo sviluppo di interfacce grafiche;
+
+Completano il profilo:
+
+Buona conoscenza dell’inglese;
+Elevata capacità di problem solving.
+
+Viene offerta l'opportunità di lavorare in un ambiente giovane e dinamico, capace di riconoscere e premiare le migliori professionalità.
+
+
+Zona di lavoro: Padova Vicenza e Torino
+
+
+L’offerta è rivolta ad entrambi i sessi in ottemperanza al D.Lgs. 198/2006.
+
+
+Inviando la sua candidatura, verrà a conoscenza della nostra informativa sulla privacy su: http://www.teoresigroup.com/hr-gdpr-ita
+
+Academy Python Developer - Machine Learning
+
+
+Nel mondo convergente dell'IT e dell'ingegneria, con un’impronta globale di oltre 30.000 consulenti in più di 20 paesi che lavorano su tecnologie cognitive, trasformazione digitale, cloud e infrastrutture, ecosistemi intelligenti e industria 4.0, Modis è pioniere della Smart Industry e offre competenze cross tra IT e ingegneria digitale per accelerare l'innovazione e la digital transformation.
+
+
+Grazie a un un'offerta di servizi e soluzioni unica che include Tech Consulting, Tech Talent Services e Tech Academy, Modis supporta le aziende a crescere, migliorare e raggiungere i risultati desiderati. Let’s engineer a smarte future, together.
+
+Elemento distintivo di Modis Consulting è quello delle Full-time Academy, che hanno il preciso obiettivo di colmare lo skill gap tra l’offerta formativa dei principali Atenei e Politecnici italiani e le competenze richieste dalle più importanti aziende del settore IT ed Engineering.
+
+In linea con le opportunità professionali che stiamo attualmente gestendo, ricerchiamo per il nostro organico brillanti laureati e/o laureandi, appassionati di tematiche legate al mondo della programmazione ICT e motivati ad intraprendere uno stimolante percorso formativo e professionale.
+
+Dopo aver superato uno scrupoloso processo di selezione, i migliori candidati saranno inseriti in un percorso di Academy (formazione intensiva e strutturata), della durata di 4 settimane in cui verranno approfonditi vari moduli formativi gestiti in partnership con:
+
+- Aziende leader nei loro rispettivi settori;
+
+- Prestigiosi enti di formazione e certificazione.
+
+
+La formazione sarà sia teorica che pratica e riguarderà il linguaggio di programmazione Python, Machine Learning e lo studio di una piattaforma innovativa utilizzata in ambito finanziario per la gestione in sicurezza dei dati (Native Cloud).
+
+Una volta concluso il corso, i candidati saranno coinvolti all’interno dei nostri progetti in collaborazione con una nota azienda cliente leader del settore IT e avranno modo di confrontarsi con un ambiente dinamico e tecnologicamente innovativo.
+
+
+REQUISITI RICHIESTI:
+
+• Laureati e/o Laureandi in materie STEM (Informatica, Ing. Informatica, Ing. gestionale, Ing. dell’informazione, Statistica, Fisica, Matematica)
+
+• Diplomati con esperienza e/o corso di formazione in ambito programmazione ad oggetti;
+
+• Flessibilità nell’apprendimento di nuove tecnologie e capacità di imparare nuovi linguaggi;
+
+• Buona conoscenza della lingua inglese;
+
+• Buone capacità relazionali e attitudine a lavorare in team;
+
+• Passione, curiosità e talento.
+
+
+Inizio della formazione: 19 Aprile 2022 (Full time dal Lunedì al Venerdì)
+
+Sede della formazione: FAD (Didattica a Distanza)
+
+Sede lavorativa: Padova
+
+Pay range unavailable
+
+Dondi Salotti Srl, azienda italiana leader nel settore retail ed in fase di forte espansione su tutto il territorio nazionale e internazionale, ricerca
+
+
+ODOO Python Developer
+
+
+Stiamo cercando più figure che, inserite all’interno di un team, si occuperanno di sviluppare ed implementare software in ambiente Odoo
+
+Vorremmo incontrare candidati con spirito di intraprendenza, attitudine al problem solving e un forte orientamento alla collaborazione e al lavoro di gruppo.
+
+
+Competenze informatiche richieste:
+
+• Conoscenza Odoo;
+
+• Conoscenza dei linguaggi di programmazione Python e Javascript;
+
+• Conoscenza di un linguaggio di markup tra HTML e XML;
+
+• Conoscenza del linguaggio SQL;
+
+• HTTP e protocolli di rete;
+
+
+Ral annua lorda: 55.000 €
+
+Durata contratto: Contratto a tempo indeterminato
+
+Modalità di impiego: 2 giorni di lavoro in sede 3 in smart working
+
+
+Sede di Lavoro: Via Lombardi, 15 – Levata di Curtatone (MN)
+
+Fast Private Jet S.R.L. is a leading business aviation company based in Verona, Italy, operating in the private jet industry.
+
+
+The #FPJTeam of professionals has the mission to offer its customers a top-level service, boasting over twenty years of experience in the industry that brings together the founders of world-renowned executive airlines on a corporate and operational level.
+
+
+Fast Private Jet helps clients search the market for the best aircraft available for private jet charter flights, obtaining the best price available through its selected network of air taxi companies operating with private jets. It offers private jet hire services worldwide with an active service 24/ 7, meeting any request for any type of flight. Not limited to this, Fast Private Jet's expertise also includes aircraft purchase consulting.
+
+
+Navigate between research, create, design, implement and manage software programs.
+Creating and implementing efficient code.
+Determining operational practicality & testing.
+Manage the technical solutions demand, supporting the Marketing team with particular focus platforms and optimisation, in alignment with business needs.
+Provide the vision and oversight required to deliver desired project requirements In conjunction with technical and business resources available.
+Provide the necessary supervision to ensure that pieces of each project are completed effectively and efficiently.
+Setting up workstations with computers, checking computer hardware to ensure functionality.
+Maintaining and upgrading existing systems.
+Installing and configuring appropriate software and functions according to needs.
+Ensure security and privacy of networks and computer systems.
+
+
+Qualifications & skills:
+
+
+Previous experience in planning, organising, leading and executing projects
+Excellent knowledge of HTML
+Knowledge and interest in computer systems (mainly IOS) and the latest technologies.
+The ability to learn new technologies quickly.
+Creativity, enthusiastic & problem solver
+Monitoring latest markets updates & lates technologies solutions.
+The ability to communicate efficiently.
+Attention to details.
+Fluent in English & Italian.
+
+Compensation and type of contract:
+
+
+Permanent contract
+
+Annual gross salary starting from 25.000,00 euro
+
+Annual objective bonus
+
+Feedel Ventures is the first fully decentralized startup studio connecting Italian entrepreneurs and startups to the world. We are an idea lab that creates and develops highly innovative startups from idea to market launch and growth. We are a cross-functional team of 15 international professionals with wide startup and corporate experience, and great attention to diversity. We create start-ups, nurturing them with management, technological and design feed. By joining the Feedel team you will have the unique opportunity to work on multiple start-up projects, on multiple industries (among others Artech, Entertainment, Travel and Food) and in several markets (among others EU, USA, West Africa)
+
+We are looking for a passionate, ambitious and fearless IT professional to support our daily operations at portfolio level (20+ startups currently hustling) alongside the CTO and senior advisors.
+
+Are you looking for a calm, self-paced environment?
+
+Don’t waste your time, keep scrolling. Good luck with your search! :)
+
+Surprise! Startups live and thrive in chaos so, if you’re still here, that means you’re not afraid of taking the bumpy road and in search of adventures.
+
+Audacious!
+
+Alright, here’s a few traits we are looking for:
+
+- Exceptional social skills - Yes, people first, always!
+
+- 2+ years of experience as developer - Hands-on, no jokes! You know by heart the full software development lifecycle
+
+- Ability to work autonomously on the backend side of things - Building up from scratch a simple REST or GraphQL API to create an item must be as easy as it sounds
+
+Our preferred stack thus your main expertise
+
+Programming languages (at least one of the following):
+
+- Javascript / Typescript (node, nest, fastify)
+
+- Go
+
+- Python (flask)
+
+- Java (SpringBoot, Quarkus)
+
+Databases
+
+- NoSQL (Mongo, Redis)
+
+- SQL (mariaDB, postgreSQL, mysql)
+
+Tools and Infra:
+
+- Mainly AWS (some experience with GCP is a good plus)
+
+- Docker
+
+- GitHub and GitHub Actions
+
+- Other tools: Firebase, Auth0
+
+- Comfort working in a highly agile, intensely iterative environment - Value is created in an incremental fashion and through teamwork. You really believe that!
+
+- Remarkable proactiveness - Don’t hide
+
+- Ability to thrive in a fully remote organization
+
+- Fluent English
+
+
+Now, your responsibilities:
+
+- Get your hands dirty and focus on delivering value
+
+- Be flexible and embrace change - When we say “intensively iterative environment” we mean it!
+
+- Support scouting your next tech buddy
+
+- Maintain the studio’s effectiveness and efficiency by delivering and supporting strategic plans defined by the CTO
+
+- Report on projects’ progresses and make adjustments as needed
+
+- Support in the product and solution definition phase (feasibility assessment, analysis of requirements and architectural definition of the solution etc.) - Put your own thoughts on the table
+
+- Liaise with your colleagues or external contractors/freelancers/agencies when needed
+
+- Proactively be part and support the Feedel tech community
+
+
+All of this, for what?
+
+- Competitive salary (30-40k) + Feedel shares
+
+- Possibility to work wherever you want, no question asked.
+
+- An astonishingly steep learning curve across industries and technologies
+
+- Training budget
+
+- Monthly workation with the rest of the team somewhere in Europe
+
+Dondi Salotti Srl, azienda italiana leader nel settore retail ed in fase di forte espansione su tutto il territorio nazionale e internazionale, ricerca
+
+
+ODOO Python Developer
+
+
+Stiamo cercando più figure che, inserite all’interno di un team, si occuperanno di sviluppare ed implementare software in ambiente Odoo
+
+Vorremmo incontrare candidati con spirito di intraprendenza, attitudine al problem solving e un forte orientamento alla collaborazione e al lavoro di gruppo.
+
+
+Competenze informatiche richieste:
+
+• Conoscenza Odoo;
+
+• Conoscenza dei linguaggi di programmazione Python e Javascript;
+
+• Conoscenza di un linguaggio di markup tra HTML e XML;
+
+• Conoscenza del linguaggio SQL;
+
+• HTTP e protocolli di rete;
+
+
+Ral annua lorda: 55.000 €
+
+Durata contratto: Contratto a tempo indeterminato
+
+Modalità di impiego: 2 giorni di lavoro in sede 3 in smart working
+
+
+Sede di Lavoro: Via Lombardi, 15 – Levata di Curtatone (MN)
+
+Vocalime is a design and development studio focused on voice technology and conversational AI.
+
+
+We craft voice applications for Alexa and Google Assistant, voicebots and chatbots so that people don’t hate interacting with them too much and, sometimes, even go as far as enjoying them.
+
+
+Our role is to support companies and brands to design and build conversational interfaces. We have great clients in Europe and the U.S. that are like partners to us, as we only take on projects that share our vision and truly excite us.
+
+
+To give you some hints, our latest works include:
+
+A voice app to seamlessly control live streaming sessions on Twitch.
+A conversational interface to control your Tesla (lucky if you have one!)
+A Slack integration for a voice messaging platform of a VC-backed Silicon Valley client.
+An AI-based chatbot to help keep track and improve one’s nutritional intake.
+
+Some of the products we’ve worked on have been used by tons of users and we’ve been growing steadily since our birth. To support our growth, we’d like to expand our technical team. More people = more projects = more fun.
+
+
+If you love coding, you’re pretty damn good at it and you find the idea of building conversational products interesting…you’ve come to the right place.
+
+
+
+What you'll do
+
+Develop custom voice applications for Alexa (Skills) and Google Assistant (Actions) for different industries and use cases.
+Develop custom virtual agents built through different technologies (Rasa, Dialogflow among the others).
+Develop internal tools to facilitate the development and deployment of such applications.
+Work (virtually) side by side with our technical co-founder, conversation designers and the internal dev teams of our clients, that include some of the most skilled programmers you’ll ever meet.
+
+Where and when we work
+
+We’re remote-first, we’re not remote-only. So you’ll have the option to come to our cool Milan offices if you want/can.
+We still love good ol’ face-to-face from time to time, so we hold regular team retreats.
+We have a flexible schedule. Still, we all tend to start working between 8am and 10am UTC+1 each day, to ensure there’s enough overlap between all the team members.
+Our standard work week has 36 hours. That means we’ve got half a day off each week compared to most of the other places. We can spend that extra time doing other things we love.
+
+What you’ll get working with us
+
+Full-time job on a permanent contract. Contract classification (“inquadramento”) based on seniority.
+€27-35k gross salary/year, adjusted according to your experience and potential.
+Laptop of your choice.
+An intellectually stimulating use of your time, passionate colleagues and a large amount of fun.
+
+Our tools
+
+Our stack depends on the specifics of each project, but we mostly work with:
+
+Languages: Node.js, TypeScript, Python.
+Dev tools: Alexa Skills Kit, Google Actions SDK, Jovo, Rasa, Dialogflow, AWS Lambda, DynamoDB, NoSQL, Git, GitHub, Terraform.
+Conversation design tools: Voiceflow.
+Project management tools: Google Workspace, Jira, Slack.
+
+What we require
+
+At least 1 year of work experience as a backend developer.
+Strong knowledge of Node.js and/or TypeScript. Ideally also Python.
+Ability to communicate clearly.
+Fluency in English, written and verbal.
+Eligibility to work in the EU.
+
+What is nice to have
+
+Previous experience with the development of Alexa Skills, Google Actions and the Jovo framework. Knowledge of Alexa Presentation Language would be the cherry on top 🍒
+Previous experience with frameworks for virtual agent development such as Rasa (preferred) and Dialogflow.
+Knowledge of AWS and GCP services.
+Fluency in Italian.
+
+Things that will make you a perfect fit
+
+True passion for coding. You’re organized and creative enough to solve most challenging problems independently, given the necessary tools and direction.
+Interest in building voice and conversational interfaces. You don’t need to have previous experience, but it would probably help you to know something about it to better understand what you’re getting into.
+Pragmatic orientation to excellence. No, that’s not an oxymoron even if it sounds like one. That means you’re energetic and always geared towards making the absolute best work possible. At the same time, you also know that a developer’s work is often about turning a design into reality in a timely fashion.
+Entrepreneurial spirit. You would be one of our early employees. We’re a small, growing team where the contribution and dedication of each of us has a huge impact on the success of the company. That requires some willingness to boldly take ownership by everybody, from the founders to the interns.
+Last, but definitely not least, kindness: you maintain your ability to smile and appreciate others even when that (🤬) code doesn’t compile 😊
+
+5+ years of industry experience building data-intensive web applications
+Proficiency in Python
+Experience designing and developing REST APIs
+Experience developing with Django and Django REST Framework
+A strong belief that you get the most out of your time when working in a team
+Experience with Git and testing
+Excellent written and verbal English communication skills (B2)
+
+
+Save
+Save Back End Developer at ORS GROUP
+ORS Group is looking for a Senior Backend Developers with 5-7 years of proven experience in developing backend for Enterprise Applications.
+
+Responsibilities typically include:
+
+Developing application in .NET and .NET Core
+Supporting the implementing of data storage solutions;
+Optimizing applications;
+Developing codes and libraries.
+Support DevOps activities
+Requirements:
+
+High School or University degree in Engineering or in Computer Science or in a related field;
+Experience in .NET framework 4.6+/.NET Core with C#;
+Knowledge of ASP.NET Core;
+Knowledge of principal design patterns;
+Knowledge of T-SQL;
+Knowledge of Python;
+Knowledge of Docker and Kubernetes is a plus;
+Devops knowledges is a plus;
+Basic knowledge of Javascript, 2+ and ReactJS/Typescript
+Teamworking and team-building skills;
+Result oriented and work by projects;
+Proficient in English;
+Driving license.
+Our Offer:
+
+Possibility to work for a highly innovative company in full expansion
+An appropriate package to attract the best talent
+To apply:
+
+Send your resume, in English with photo, to selezione@ors.ai with the following object Ref: Senior Backend Developer
+
+Pay range unavailable
+
+Our mission? To create the finance solution that energizes SMEs and freelancers, so they can achieve more. We simplify everything from everyday banking and financing, to bookkeeping and spend management. A Qonto, we are passionate about creating the best product, one with a strong impact and a great user experience. So, if you’re looking for an ambitious team that’s modernizing a dusty industry thanks to design and technology combined with great customer care, get in touch! Find out more about the Qonto Way here .
+
+Alexandre and Steve launched Qonto in July 2017, and the team has achieved great things since then:
+Market leader for online SME banking in Europe
+220,000 SME clients
+Outstanding customer satisfaction ( App Store | Google Play | TrustPilot )
+Recognized as one of the best startups to work for ( LinkedIn | Glassdoor )
+€622 millionraised so far with a €4.4 billion valuation after Series D
+International investors including Valar, Alven, Tencent, DST Global, Tiger Global, TCV, Alkeon, Eurazeo, KKR, Insight Partners
+4 offices in Paris, Berlin, Milan, and Barcelona
+And 500+ happy Qontoers building a finance solution businesses love to use
+
+Our values:
+Ambition | We tackle big challenges. No matter what
+Teamwork | We create momentum by working together, at the same speed
+Mastery | We pursue excellence through continuous learning. We face challenges with humility. Every day
+Integrity | We're open. We're honest. And we earn the trust of our clients and each other
+
+Software Engineers at Qonto craft polished user experiences, highly scalable API's and robust banking services, all to help create the finance solution all businesses love.
+
+The backend engineering team at Qonto currently has over 60 highly skilled engineers, from all over the world, working closely in cross-functional teams to shape our finance solutions. They participate in the discussions on the direction of our banking product, manage how we will handle our ever-growing user base needs, and deliver high-quality products in a fast-paced environment.
+
+👩‍💻🧑‍💻 As a Lead Backend Engineer at Qonto, you will
+Manage a team of 5 to 8 Backend Engineers
+Coordinate with engineering, product and design leads to define a vision and strategy for your cross-functional team
+Drive the delivery of your cross-functional team to help us meet business objectives
+Mentor, pair, and delegate work to foster the professional and technical growth of your teammates
+Help build a collaborative, inclusive, and supportive team culture and make it shine
+Run 1o1s and quarterly progress reviews to provide regular feedback to your team members
+Run interviews to hire new team members
+Design, build, test, document, run, review and maintain code in Golang or Ruby
+Support a critical service used by tens of thousands of users on a daily basis
+
+Our primary languages are Golang and Ruby on the backend, EmberJS on the frontend, and Kotlin and Swift for our Mobile applications. Our platform runs on a Kubernetes cluster hosted on AWS, with PostgreSQL as our database of choice, using Kafka for our event-driven architecture and ELK for logging and auditing, among many other tools, services, and applications.
+
+However, not mastering our stack is not an issue at all! A lot of Qontoers have learned Go and/or Ruby since they joined us.
+
+As long as you are willing to learn, it doesn't matter if you've been using Python, Java or NodeJS.
+
+🧠What You Could Work On
+
+As part of our Engineering Department, you will be the backend lead of a cross-functional team. Every cross-functional team handles a part of our product. A few examples of these teams are:
+
+💳Cards: the team responsible for all things cards. On the backend, this includes but is not limited to: all things related to card shipment, paying with cards, billing for cards, and card security.
+
+🏦Ledger: the team working on our Core Banking System, which allows us to store transactions in an accurate, scalable, and auditable way.
+
+✈️Onboarding: the team guiding users through a delightful and frictionless sign-up experience.
+
+🏅About You
+Leadership: You can collaboratively lead the evolution of your cross-functional team.
+Team player: You have excellent communication skills, which help you diffuse knowledge across teams and align people to work successfully on their projects.
+Tech Skills: You have strong knowledge of Go and/or Ruby.
+Languages: You are fluent in English
+
+🎁 Perks
+
+You got it: helping you succeed is our #1 priority. We have put together several perks to make your life easier and more will be added as Qonto grows further 🤗
+
+Office & Team Life
+A central fully-renovated building in Milan Duomo with WeWork services
+Monthly team events, and specific budget to organize team offsite
+Free coffee and a budget allocated to managers for small team events
+The latest equipment from Apple
+
+Qonto’s benefits
+Tailor-made Remote Policy
+A competitive salary package
+22 days off + paid hours off (mini 4 days)
+An Edenred meal card
+Partnership with Urban Sports Club
+50% public transportation reimbursement
+Fondo Est health insurance
+An inclusive environment with a real focus on parity (40% of our teams are women)
+Access to Busuu , a digital platform to improve your language skills
+Access to Moka Care , a digital platform to take care of your mental health
+Career tracks that can match all expectations (Expert, Lead, or Manager tracks): we believe in our Qontoers and we want them to progress on their journey at Qonto. And in addition, internal and international mobility is also promoted
+
+💪 Our hiring process:
+A 60 min video call with one of our Talent Acquisition Managers, to better understand your career plan and answer any questions you may have
+A 60 min video call with your future manager, to be aligned on expectations on both sides and to talk about how you would work together
+A remote exercise to evaluate your skills and give you a taste of what working Qonto could be like
+Video calls or onsite interviews with future team members (optional) to help you understand what working at Qonto is like
+A final video call or onsite interview with the manager of your future Department
+
+Check this article to learn more about the hiring process and we will send you an interview guide so you can best prepare yourself.
+
+On average our process lasts 20 working days and offers usually follow within 48 hours 🤞
+
+Thank you for considering joining Qonto. We cannot wait to learn more about you!
+
+If you want to learn more about us: Economia | Qonto's Blog | FintechDistrict | TechCrunch
+
+Leithà, società del Gruppo Unipol finalizzata alla sperimentazione di nuove tecnologie e allo sviluppo di soluzioni innovative di prodotto, processo e servizio a supporto dell’evoluzione del business assicurativo (https://www.linkedin.com/company/leitha/?originalSubdomain=it), è alla ricerca di un Computer Scientist/Software Engineer da inserire nella propria struttura Computer Science per progettare e sviluppare API, micro-servizi ed applicazioni end-to-end e per sperimentare nuove tecnologie e soluzioni tecnologiche cutting-edge.
+
+
+
+REQUISITI:
+
+
+Laurea Magistrale in Informatica o equivalente (MSc, MBA o PhD sono considerati un plus);
+Competenze, curiosità e passione per diverse tecnologie quali: Java, Spring, Quarkus, Camel, JavaScript, NodeJS, AWS, Kubernetes, Scala, Python, Docker, PostgreSQL, mongodb, ElasticSearch, Tensorflow, Neo4J, Kafka, GraphQL;
+Almeno una esperienza significativa di sviluppo di una applicazione completa;
+Capacità e attitudine a lavorare con metodologie agile, in team multidisciplinari con background eterogeneo e a occuparsi dell’intero ciclo di vita del prodotto / servizio;
+Inglese fluente (parlato e scritto);
+Per candidati senior, capacità di mentorship e indirizzamento di risorse con minore esperienza.
+
+È inoltre richiesta esperienza approfondita su almeno una delle seguenti tematiche:
+
+
+API management e microservices;
+Applicazioni distribuite e low latency computing;
+Parallelismo e high performance computing, ottimizzazione delle prestazioni dei sistemi;
+Containers e orchestrazione.
+
+Il candidato sarà inserito con rapporto di lavoro a tempo indeterminato CCNL Commercio.
+
+
+Sede di lavoro: Milano o Bologna
+
+PYTHON SOFTWARE ENGINEER
+
+
+We are looking for a talented Python Software Engineer to work on our AI-powered applications and solutions.
+
+
+Main Responsibilities:
+
+Write clean, efficient and maintainable code to ensure the system performance and reliability
+Contribute to technical architecture and solution design
+Build RESTful and socket APIs
+Integrate with Machine Learning frameworks
+
+Requirements:
+
+2+ years of experience in Software Engineering
+Professional proficiency in Python
+Experience developing containerized applications in production environments
+Experience with web frameworks
+Interest in learning new technologies
+
+Soft-skills:
+
+Ability to work independently
+Team working and communication skills
+
+Seniority level: 2+ years of experience
+
+Workplace: Milan (Hybrid)
+
+Have you ever read that “Small businesses are the backbone of the economy”?
+
+
+Every day, Credimi fuels hundreds of entrepreneurs’ growth by making their business finance easier, and faster than any other alternative in the market. Our proprietary technology has allowed us to process and analyse more than 60 thousand financing requests and to lend over 1,8 billion of euro to Italian SMEs, making Credimi the largest digital lender in Europe.
+
+
+Credimi, with the exclusive support of Open Search Net, is looking to hire a:
+
+
+Senior Back End Engineer
+
+(Milan/Italy)
+
+
+
+
+Company: FinTech
+
+Experience: 4+
+
+Skills: Python, Docker, Kubernetes
+
+
+
+Your day-to-day:
+
+
+-Hone your skills in releasing fast, whilst ensuring quality
+
+-Understand our complex products end-to-end and our fintech domain
+
+-Get your hands on patterns, technologies and practices such as Kubernetes, event sourcing, CQRS, infrastructure-as-code, and learn the new ones we dont’ know yet
+
+-Apply DevOps practices
+
+-Play an active role in a friendly, flexible team
+
+
+Requirements:
+
+
+-You like to innovate and try new technology and approaches
+
+-You like to take responsibility for your work and enjoy autonomy
+
+-MS degree in Computer Science, Software Engineering or related field
+
+-4+ years of relevant experience
+
+-Good understanding of concurrency, distribution and streaming
+
+-BDD, Gherkin and TDD
+
+-Experience in developing microservices
+
+-Excellent knowledge of Python and interest in learning an additional language
+
+-Nice to have: Knowledge of Scala or Rust
+
+-Continuous integration
+
+-Docker & Kubernetes
+
+-Good communication skills with colleagues (tech/non-tech) and external providers
+
+-Teamwork focus attitude
+
+-Junior colleague mentoring experience
+
+-In order to apply for this role you ALSO need to compete in the Data Challenge on Open Data Playground named “Identity management is not a joke, Jim"
+
+
+
+Benefits:
+
+
+-Growth. We invest in learning and in shaping merit-based career paths. Once you interview with us you’ll meet people whose careers took unprecedented turns
+
+-A brand new city-centre office with a fully stocked kitchen, games, lounge area. Designed to embrace the new, post-pandemic world
+
+-Work from home, work from abroad, work from the office approach. We look for results, wherever they come from. We just like seeing your face, once in a while
+
+-A culture that values sharing information and having fun: we believe in team gatherings and social events. We want you to know all about Credimi and to hear your thoughts
+
+-A keen interest in wellbeing, with an extra large welfare package and health insurance
+
+Smartika la societ di Peer to Peer Lending del gruppo Sella!
+
+Il Social Lending il business alternativo, sfidante e innovativo in cui – riportando direttamente al CTO di Smartika in qualit di Backend Software Engineer – potrai dedicarti allo sviluppo di servizi REST e applicativi web su infrastruttura cloud, analisi e problem solving in ambito progettuale IT.
+
+Le tue responsabilit:
+Sviluppare API REST
+Automatizzare e migliorare i processi interni
+Testare ed esaminare logs e codice sviluppato da altri
+Comprendere le necessit del team e collaborare con tutti gli stakeholders
+Partecipare attivamente alle decisioni di progetto
+
+Tu:
+Hai una laurea di I livello in ambito STEM (Science, Technology, Engeneering and Mathematics)
+Possiedi almeno 3 anni di esperienza come Full Stack developer (backend Java)
+Sai lavorare in team e possiedi le seguenti conoscenze indispensabili per la posizione:
+Conoscenza di infrastrutture ICT moderne
+Conoscenza di linguaggi di programmazione (Java, Python)
+Conoscenza di database relazionali (in particolare Oracle)
+Conoscenza di concetti di CI/CD
+
+Sede di lavoro: Milano con possibilit di smartworking
+
+Il Gruppo Sella promuove un ambiente di lavoro sostenibile, inclusivo e che abbraccia le diversit di genere, et, nazionalit, come occasione di continuo scambio culturale e fattore determinante per lo sviluppo stesso dell’ecosistema di Gruppo.
+
+*This is a relocation opportunity*
+
+
+
+Are you a Python Master? Your favourite foods are fries and waffles? Then is your moment to join Alter Solutions Benelux Community!
+
+
+You just need to have 5+ years of experience as a Python Developer
+
+
+
+Technical skills:
+
+AWS, RASA framework, Terraform, Cloud native development, Kubernetes, Networking and core internet protocols, SQL and No-SQL basics.
+
+
+
+Competencies:
+
+· Work independently
+
+· Very flexible mindset
+
+· No problem stepping out of your comfort zone
+
+· Fast learner
+
+· Clear communication
+
+· High English Level
+
+· Other Spoken Language
+
+
+
+As part of our Alter Benelux Community, you’ll receive:
+
+· Relocation Package
+
+· Mobility Budget
+
+· Representation Allowance
+
+· Travel Budget
+
+· Meal Allowance
+
+· Phone Allowance
+
+· Internet Allowance
+
+· Home Office Allowance
+
+· Trainings
+
+· Pension Plans
+
+· Private Health Insurance
+
+Project Description
+
+DXC-Luxoft is an industry-leading software integrator and solution house for automakers and automotive suppliers. There are millions of cars on the road today with solutions designed by DXC-Luxoft. We are working on the development of modern and future technologies such as Advanced Driver Assistance Systems (ADAS) with the highest demands in safety and reliability.
+
+For expanding our business offering in the European market, we seek to establish an experienced domain expert. DXC-Luxoft is happy to receive applications from self-motivated and self-disciplined applicants who communicate well, like to work in teams, and are willing to travel.
+
+For the successful candidate we offer the opportunity to enhance and develop your career with the following benefits:
+
+Join a highly competent and motivated international team
+
+Apply your talent into figuring the shape of future car
+
+Personal growth and promotion options
+
+Make an impact on the overall growth of DXC
+
+The interesting project connected with scenario modeling for ADAS systems
+
+
+Responsibilities
+
+Requirement analysis
+
+Design and develop the software
+
+Documentation and testing
+
+Active participation in Scrum process
+
+
+Skills
+
+Must have
+
+Software development (min. 2 years)
+
+Python (incl. REST API)
+
+Git
+
+Test automation (unit tests, integration tests)
+
+English
+
+
+Nice to have
+
+CI/CD
+
+Azure Cloud experience
+
+Java or GO experience
+
+
+Languages
+
+English: B2 Upper Intermediate
+
+Sei appassionat@ di tecnologia e vuoi entrare a far parte di un ambiente dinamico, sfidante e in continua evoluzione?
+
+
+Allora sei nel posto giusto!
+
+In idealista stiamo cercando, per la sede di Milano, una nuova figura Senior Back-end Developer da inserire nel Team di Tecnologia dedicato al Brand Casa.it.
+
+
+
+Di cosa ti occuperai?
+
+
+
+La risorsa, inserita nel team di Back-end, all’interno dell’area Technology, si occuperà delle seguenti attività:
+
+
+Disegno tecnico di soluzioni applicative
+Evoluzione dell’architettura a microservizi
+Design ed implementazioni di API REST
+Manutenzione ed evoluzione di pipeline per la gestione di flussi di dati
+Testare il codice prodotto in modo automatico
+
+
+Che profilo cerchiamo?
+
+
+
+
+Il/la candidato/a ideale ha maturato una forte esperienza nel ruolo all’interno dell’area tecnologica di aziende del settore e-commerce/classified/media e possiede i seguenti requisiti:
+
+
+
+Laurea in discipline tecnico-scientifiche
+Buona conoscenza di Javascript (Node.js) e/o Python
+Esperienza con database SQL e NoSQL
+Familiarità con architettura a microservizi
+Gradita conoscenza di Rabbitmq o altri sistemi a code
+Gradita conoscenza di Elasticsearch
+Familiarità con Docker e AWS
+Conoscenza della lingua inglese
+
+
+
+
+Quali skills completano il profilo?
+
+
+
+Proattività
+Orientamento ai risultati e attenzione alle scadenze
+Capacità di lavorare in gruppo
+Capacità di lavorare in un contesto internazionale, dinamico e in continua evoluzione
+
+
+
+📍 Sede di lavoro: Milano
+
+
+🕗 Orario di Lavoro: Full Time
+
+
+📑 Tipologia di contratto: assunzione commisurata all’esperienza del candidato/a.
+
+
+
+Il nostro annuncio è in linea con il tuo profilo e con quello che cerchi?
+
+Allora inviaci subito la tua candidatura con un CV aggiornato!
+
+Academy Python Developer
+
+
+Nel mondo convergente dell'IT e dell'ingegneria, con un’impronta globale di oltre 30.000 consulenti in più di 20 paesi che lavorano su tecnologie cognitive, trasformazione digitale, cloud e infrastrutture, ecosistemi intelligenti e industria 4.0, Modis è pioniere della Smart Industry e offre competenze cross tra IT e ingegneria digitale per accelerare l'innovazione e la digital transformation.
+
+
+Grazie a un un'offerta di servizi e soluzioni unica che include Tech Consulting, Tech Talent Services e Tech Academy, Modis supporta le aziende a crescere, migliorare e raggiungere i risultati desiderati. Let’s engineer a smarte future, together.
+
+
+Elemento distintivo di Modis Consulting è quello delle Full-time Academy, che hanno il preciso obiettivo di colmare lo skill gap tra l’offerta formativa dei principali Atenei e Politecnici italiani e le competenze richieste dalle più importanti aziende del settore IT ed Engineering.
+
+
+In linea con le opportunità professionali che stiamo attualmente gestendo, ricerchiamo per il nostro organico brillanti laureati e/o laureandi, appassionati di tematiche legate al mondo della programmazione ICT e motivati ad intraprendere uno stimolante percorso formativo e professionale.
+
+
+Dopo aver superato uno scrupoloso processo di selezione, i migliori candidati saranno inseriti in un percorso di Academy (formazione intensiva e strutturata), della durata di 4 settimane in cui verranno approfonditi vari moduli formativi gestiti in partnership con:
+
+Aziende leader nei loro rispettivi settori;
+
+- Prestigiosi enti di formazione e certificazione.
+
+
+La formazione sarà sia teorica che pratica e riguarderà il linguaggio di programmazione Python e lo studio di una piattaforma innovativa utilizzata in ambito finanziario per la gestione in sicurezza dei dati (Native Cloud).
+
+Una volta concluso il corso, i candidati saranno coinvolti all’interno dei nostri progetti in collaborazione con una nota azienda cliente leader del settore IT e avranno modo di confrontarsi con un ambiente dinamico e tecnologicamente innovativo.
+
+REQUISITI RICHIESTI:
+
+• Laureati e/o Laureandi in materie STEM (Informatica, Ing. Informatica, Ing. gestionale, Ing. dell’informazione, Statistica, Fisica, Matematica)
+
+• Diplomati con esperienza e/o corso di formazione in ambito programmazione ad oggetti;
+
+• Flessibilità nell’apprendimento di nuove tecnologie e capacità di imparare nuovi linguaggi;
+
+• Buona conoscenza della lingua inglese;
+
+• Buone capacità relazionali e attitudine a lavorare in team;
+
+• Passione, curiosità e talento.
+
+Inizio della formazione: 19 Aprile 2022 (Full time dal Lunedì al Venerdì)
+
+Sede della formazione: FAD (Didattica a Distanza)
+
+Sede lavorativa: Padova
+
+Pay range unavailable
+
+Il nostro cliente è una società italiana di ingegneria del software che sviluppa soluzioni innovative in ambito ICT indirizzate a differenti settori di mercato.
+
+Nata più di 20 anni fa e sempre attenta all’evoluzione tecnologica, instaura rapporti di partnership con i più importanti player del settore ICT e della ricerca. Supporta infatti le imprese con l'innovazione tecnologica per creare vantaggio competitivo e valore nel medio e lungo termine.
+
+I suoi pilastri sono da sempre le persone, la qualità del lavoro e la grande rilevanza che ricoprono i progetti a cui prendono parte, aspetti che hanno contribuito a creare negli anni un ambiente di lavoro disteso e tranquillo, ma al contempo stimolante.
+
+
+Per rafforzare l'area di sviluppo interna, stiamo ricercando la figura di BACKEND DEVELOPER che, a diretto riporto del responsabile dell’area tecnica, prenderà parte ai numerosi progetti dell’azienda, collaborando con il team di sviluppo e con i colleghi.
+
+In particolare, sei la persona che desideriamo incontrare se:
+
+hai una Laurea in Informatica o in Ingegneria Informatica;
+conosci il linguaggio di programmazione Java (8 o superiore);
+hai esperienza con la progettazione e l’utilizzo di database relazionale SQL o NoSQL.
+Come plus è gradita la conoscenza del framework Spring Boot e basi di Linux.
+
+
+Se sei alla ricerca di un contesto dove la qualità del lavoro e le persone fanno la differenza e dove poter crescere e formarti e, soprattutto, se ti definisci una persona appassionata di informatica che ha voglia di mettersi in gioco, allora questa è l’opportunità giusta per te!
+
+
+Contratto: Tempo Indeterminato
+
+Sede di lavoro: Milano
+
+Dale Consulting is looking for a Python Developer. The resource will participate in an innovative test automation project for the payment industry.
+
+In this project, it will be use Python and Angular, in order to improve the quality and efficiency of testing processes.
+
+The resource will be responsible for:
+
+The design, implementation, integration and test of a (sub) system, component or module in high quality, according to requirements and on time;
+Compliance and alignment with software development professionalism standards within the team (processes and methodologies, quality of requirements, design, coding and testing);
+Carrying out complex development and prototyping tasks;
+Implementation of requirements while considering the overall solution;
+Promoting domain knowledge, innovative thinking and test-engineer/tester understanding.
+Skills required:
+
+3+ years of experience in software development;
+Python 3.6 -> 3.8;
+Understand different test tools;
+Solid understanding and programming skills with databases (Oracle/MySql);
+Excellent English verbal and written communication skills are essential;
+Good knowledge of Windows (Server) NT and Unix systems (Linux).
+Working methods: Hybrid (presence required on customer in Milan 2/3 days a week).
+
+About Zwap ✨
+
+Zwap is a network-building platform for professionals and distributed teams to help them build culture and connections, easily and effectively, inside and outside their organizations.
+
+We're pioneering the future of how professional connections will be made combining the flexibility of video meetings with the power of AI.
+
+Our mission is to offer workers and distributed teams a way to build, grow and leverage their professional network with an easy tool enjoyable to use and powered with data. Our ambition is to become the reference both for individuals looking to build strong professional networks and for large distributed teams to shape in-company strong connection habits.
+
+
+About the role
+
+As a Founding Engineer you will be setting the foundation of our engineering team alongside our CTO and product team from a technical and cultural standpoint.
+
+
+You need to be comfortable with wearing multiple hats, from from implementing a new UI to scaling our data infrastructure or building some automated report.
+
+Also you will have significant amount of ownership over the product direction and should expect to spend time talking to customers, teasing out use cases and making prioritization decisions regarding both the short- and long-term roadmap.
+
+At the end of the day, your most important responsibility is to get your company’s product to market and maximize the number of product experiments that can be run.
+
+
+About you
+
+There are a few critical traits you’ll need to be successful in this role:
+
+
+You crave ownership: if you often find yourself raising your hand to own things end-to-end, you will likely really enjoy this role. Maybe you will find yourself hosting one of our talks, running the new hire onboarding program or launching that new disruptive integration.
+You are a product lover: you enjoy building user-centric product and have the ability to actively challenge
+You’re ambitious: you want to do more, learn more, know more. You like to find ways to make things work at all costs.
+You love digging into open source libraries
+You get crazy if your code doesn’t follow some kind of standard
+
+Our stack
+
+﻿
+
+Frontend: Flutter
+Backend: Django, Rest API, WebSocket, PostgreSQL, Redis, Neo4J, Docker, Docker-Compose, Kubernetes, Tensorflow
+SaaS: Github, Figma, Slack (gif-less so far...), Github-Actions
+Data: Python
+Hosting: AWS (ECS, Lambda, SQS)
+Microservices oriented design mind-set
+
+Our offer and benefits 🌱
+
+We're a small team of 7, so there’s a bit of everything to do. Here few takeaways about the team:
+
+You’ll join me (Luigi), Alessandro, Federico and Vincenzo on the product team
+We are backed by some of the best angels in Italy
+You can get meaningful equity
+You’ll ship new features weekly
+Remote-first team: We're based across Italy and Germany. With plans to hire team members in all sorts of places. 🌍
+Make a big difference: Take, own and implement decisions to build Zwap from scratch.
+Flexible working hours: We use meetings when needed and not per default.
+
+
+As an early team member at Zwap you will be a critical voice and have significant influence over the direction of the company. We will compensate you well, invest deeply in your development, and ensure this is the single best work experience of your life. If you think you might be a good fit for our team, we’d love to hear from you!
+
+
+
+Sounds like you? Then, we should probably meet 👋
+
+
+Just forward your LinkedIn or CV to work@zwap.in
+
+
+If you want to stand out, choose a question below to answer:
+
+
+What can we improve about our website, the product or even our job offering?
+What surprising thing have you learned in the last few months?
+What excites you to join us?
+
+Other good ways to stand out is if you contribute to open source, have side projects, put a lot of love into your blog...
+
+
+We'll get back to you within a week. No matter our decision, you will hear from us 🙃
+
+
+Here's our hiring process for this role:
+
+
+A 45min video call with Luigi - CTO to deep dive a little bit more into tech, to make sure you're interested in our stack and product, and to check that your skillset and mindset fit for the job.
+A 1h tech call with Luigi - CTO and one member from our engineering team:
+we explain what we do and how, show you a demo. We explain our skills and values. We answer all your questions and feedbacks.
+then we reverse, you talk about a project you have worked on and we discuss it, in order to see whether we are aligned on what we want to achieve in a project
+1h technical test, pair programming: we use the test as a base for discussion to figure out how it feels working together and to cover coding skills, architecture and exploration on a new topic.
+A 30min video call with Federico - CEO and Luca - COO. It's the perfect opportunity for you to ask anything about the company.
+(opt) 30 min coffee with team members to get a feel of the work atmosphere
+
+We are looking for a talented Software Engineer to join our core product software development team.
+
+Responsibilities
+
+Partner with product leads, designers and engineers to develop reliable and well tested backend and frontend software.
+Deploy regular code releases to production and test environments.
+Provide mentorship and guidance to junior developers.
+Create and maintain frontend and backend applications and systems.
+Skills
+
+5+ years of experience in Software Engineering.
+Working knowledge of Python and the Django framework.
+Experience writing unit and integration tests.
+Knowledge of HTML5/CSS3 and the Javascript language.
+Familiarity with React ecosystem.
+More on qualifications
+
+You are comfortable working independently, while functioning as part of a dynamic team that values collaboration, dialogue, development, learning, and growth.
+You care about solving big, systemic problems. You look beyond the surface to understand root causes so that you can build long-term solutions for the whole ecosystem.
+You are a person open to developing new ideas and contributing expertise, who enjoys challenges, seeks knowledge, and is a team builder.
+You can analyze product requirements, manage tasks and partner with your teammates to match the deadlines.
+You are motivated, creative, and empowering.
+
+We offer a variety of contracts but, please, notice that our intention is to establish a long term relationship. Working remotely is an option we envisage, although we will give priority to candidate closer to our office. The ideal candidate should work from a timezone between GMT-1 and GMT+3.
+
+
+Relocation is not requested and as such we are not envisioning any relocation support package. Relocation might come, if asked by the applicant, after at least 1 year of fruitful cooperation.
+
+
+Notice that the selection process will include an exercise to test your skills using the Django framework.
+
+Jobtech is hiring! Vuoi prendere parte alla nostra rivoluzione digitale? Desideri inserirti in una tech startup in forte crescita, ricoprendo un ruolo di primo piano nella realizzazione dei nostri prodotti? Continua a leggere!
+
+
+Stiamo cercando un talento da inserire nel ruolo di backend developer!
+
+
+Come ti immaginiamo? Animato da amore per il codice, che scrivi in modo pulito, testabile e performante; amante della programmazione, non temi l’idea di buttarti in nuovi stack o linguaggi e conosci i principi dell’Agile.
+
+
+Cosa ti offriamo?
+
+Computer aziendale di ultima generazione
+Bonus trimestrali basati sulle tue performance
+Fantastici uffici a due passi dal Duomo di Milano, ma possibilità di lavorare da casa ogni volta che lo desideri o sempre
+
+Requisiti obbligatori
+
+Conoscenza di PHP
+Padronanza dei più importanti design patterns, ti piace TDD
+Capacità di lavorare con database relazionali
+Utilizzo di Git
+
+Nice-to-have
+
+Esperienza sul campo con almeno uno dei maggiori framework PHP, come Laravel o Symfony
+Conoscenza del paradigma microservizi
+Conosci Infra-as-code, Docker, K8s e Continuous Delivery
+
+RAL commisurata all'esperienza
+
+junior: 20.000€ - 30.000€
+
+middle: 30.000€ - 40.000€
+
+senior: 40.000€ - 50.000€
+
+Our offer
+
+Capgemini Engineering è alla ricerca di Python Software Developer per la sede di Milano.
+
+La risorsa sarà coinvolta in progetti afferenti al settore Energy e si occuperà delle seguenti attività:
+Progettazione e sviluppo di software applicativo;
+Progettazione e costruzione di infrastrutture di servizi dati;
+Definizione di soluzioni a livello architetturale insieme al team di sviluppo;
+Proporre, ideare ed implementare soluzioni innovative per la risoluzione dei problemi.
+Lavorerai nell'ambito della nostra industry Energy, Industry & Life Sciences che ha molteplici obiettivi: investire in fonti energetiche più pulite; investire in nuove tecnologie per rimanere competitivi e abbinare i progressi tecnologici e della medicina, guardando a un modello di completa centralità del paziente. Il denominatore comune dei 3 settori è la sfida delle rivoluzione digitale che rappresenta il perno del grande cambiamento dal quale trarre vantaggio. EILIS si propone di supportare i suoi clienti in queste sfide.
+
+Your profile
+
+Sei la nostra risorsa ideale se hai conseguito la laurea specialistica in Ingegneria Informatica o Informatica e hai maturato da 2 a 10 anni di esperienza professionale.
+
+Requisiti Fondamentali
+Esperienza pratica nella programmazione ad oggetti e nella programmazione Python;
+Buona conoscenza delle tecnologie Web;
+Esperienza pratica con Flask, FastAPI;
+Esperienza pratica con Elasticsearch;
+Esperienza pratica con Docker, GitHub e nelle applicazioni di deployment;
+Ottima conoscenza della lingua inglese;
+Propensione alla mobilità.
+I nostri Recruiter ti consigliano di candidarti a questa offerta se:
+Hai una forte passione per l'apprendimento di un'ampia varietà di tecnologie e strumenti open source;
+Sei solito lavorare in modo collaborativo all'interno del team di sviluppo;
+Sei in possesso di una certificazioni cloud e/o Elasticsearch;
+Hai buone capacità organizzative e riesci a gestire le attività in autonomia.
+Cosa Offriamo
+
+In Capgemini Engineering il successo aziendale è guidato dai nostri esperti.
+
+In un contesto internazionale e innovativo, vogliamo metterli nelle condizioni di affiancare al meglio i nostri Clienti nelle sfide tecnologiche, proponendo percorsi di crescita professionale stimolanti e in continuo aggiornamento in linea con le esigenze di un mercato in costante evoluzione. Ci impegniamo a favorire lo sviluppo del potenziale dei nostri professionisti, coinvolgendoli in prima persona nella vita aziendale per motivarli a migliorare le loro performance. Ogni giorno cerchiamo di creare un ambiente sempre più inclusivo, per consentire a chi lavora in Capgemini Engineering di raggiungere il giusto equilibrio tra vita privata e vita professionale e abbiamo scelto di costruire relazioni aziendali basate sulla fiducia, sul team working e sul senso di responsabilità.
+
+Entra a far parte di Capgemini Engineering. Scopri Values4People, la nostra employee value proposition.
+
+Inclusion & Diversity
+
+Siamo impegnati a migliorare le nostre prestazioni collettive grazie al nostro ambiente di lavoro inclusivo in cui talenti diversi trovano adeguata valorizzazione.
+
+La diversity costituisce un aspetto essenziale della nostra cultura aziendale. Questo emerge in modo evidente dalla compagine dei nostri dipendenti, che rappresentano 120 nazionalità e parlano correntemente oltre 100 lingue. Espandendo i nostri orizzonti attraverso le dinamiche legate ad esperienza, cultura, etnia, regole di comportamento aziendali, personalità e comunicazione, la diversity accoglie il meglio di tutti i mondi nella sua teoria di unità.
+
+Inoltre, prestiamo attenzione e sensibilità ai futuri talenti appartenenti alle categorie protette, ai sensi degli articoli 1 e 18 della legge 68 del ‘99. I dati personali saranno trattati in conformità alle disposizioni contenute nel regolamento UE 2016/679.
