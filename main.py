@@ -2,6 +2,7 @@ from collections import Counter
 from functools import reduce
 import operator
 
+import matplotlib.pyplot as plt
 from openpyxl import Workbook
 import pandas as pd
 
@@ -28,7 +29,7 @@ with open("raw_text.txt", mode="r", encoding="utf-8") as text:
 
 # clean the text
 for item in reduce(operator.concat, word_list):
-  clean_list.append(item)
+  clean_list.append(item.lower())
 
 for word in clean_list[:]:
     if word.lower() in stopwords_overall:
@@ -46,5 +47,7 @@ df = (df.T)
 # print(df)
 
 df.to_excel('dict1.xlsx')
+
+df.plot()
 
 print("Task done")
