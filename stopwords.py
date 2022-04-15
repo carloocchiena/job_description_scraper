@@ -1,6 +1,8 @@
 import nltk
 from nltk.corpus import stopwords
+
 nltk.download('stopwords')
+nltk.download('punkt')
 
 
 # create our custom stopwords list
